@@ -15,7 +15,7 @@ pipeline{
          NEXUS_PASS = 'admin'
          RELEASE_REPO = 'rtci-release'
          CENTRAL_REPO = 'rtci-maven-central'
-         NEXUSIP = '172.31.81.4'
+         NEXUSIP = '172.31.81.49'
          NEXUSPORT = '8081'
          NEXUS_GRP_REPO = 'rtci-maven-group'
          NEXUS_LOGIN = 'nexuslogin' 
